@@ -62,7 +62,7 @@ TERIMA KASIH :)
 
 ## 🧰 Teknologi
 - Python 3.13.5
-- VS Code
+- VS Code (IDE)
 
 
 
