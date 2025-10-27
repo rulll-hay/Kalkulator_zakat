@@ -1,7 +1,5 @@
 # 🕌 Kalkulator_zakat
---> Program python sederhana untuk menghitung zakat mal berdasarkan jenis harta, mencangkup harta hasil panen, dagang, ternak, tabungan, dan logam mulia.<br>
-<br>
---> Program ini dijalankan melalui CLI(Command Line Interface) atau biasa dijalankan di Command Prompt atau Terminal, sehingga mudah diakses di berbagai perangkat.
+--> Program python sederhana untuk menghitung zakat mal berdasarkan jenis harta yang dijalankan melalui CLI(Command Line Interface) atau biasa dijalankan di Command Prompt atau Terminal. Sehingga mudah untuk diakses.
 -----------------------------------
 ## ⚙️ Cara Penggunaan
 1. Pastikan bahasa Python sudah terinstal di perangkat anda.
