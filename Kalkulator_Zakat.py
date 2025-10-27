@@ -339,3 +339,4 @@ while True:
     repeat = input("Apakah anda ingin menghitung lagi (Y/T): ").lower()
     if repeat == "t":
         print ("TERIMA KASIH :)")
+        break
